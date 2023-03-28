@@ -20,11 +20,7 @@
 
 原项目地址：[SunnyValleyStudio/Unity_2D_Procedural_Dungoen_Tutorial: Using RAndom Wlak and Binary Space partitioning to create a 2D procedural dungeon in Unity 2020 (github.com)](https://github.com/SunnyValleyStudio/Unity_2D_Procedural_Dungoen_Tutorial)
 
-
-
 国内的转载：[介绍_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ee4y1W7Uu?p=1&vd_source=56e8fdea1840126840d1260a558908b9)
-
-
 
 https://www.youtube.com/watch?app=desktop&v=-QOCX6SVFsk&list=PLcRSafycjWFenI87z7uZHFv6cUG2Tzu9v&index=1
 
@@ -42,7 +38,6 @@ Unity Procedural Generation of a 2D Dungeon
 
 Learn how to procedurally generate a 2D dungeon in Unity using Random Walk and Binary Space Partitioning algorithms! In this tutorial we will use unity Tilemaps to create single and multi room dungeons connected by corridors using Corridors First and Rooms first approaches. 
 
-
 学习如何使用随机游走和二叉空间划分（BSP）算法在Unity中生成一个2D地牢！在本教程中，我们将使用Unity瓦片地图来创建单个和多个房间的地下城，并使用走廊优先和房间优先的方法连接走廊。
 
 
@@ -53,11 +48,14 @@ https://github.com/SunnyValleyStudio/Unity_2D_Procedural_Dungoen_Tutorial
 Learn more from about Unity Game Dev in my video courses at:
 https://courses.sunnyvalleystudio.com/
 
+
+
 ### Assets used（用到的素材）:
 
 https://pixel-poem.itch.io/dungeon-assetpuck
 
 
 
-You can support me through Patreon（赞助原作者）:
+### You can support me through Patreon（赞助原作者）:
+
 https://www.patreon.com/sunnyvalleystudio
