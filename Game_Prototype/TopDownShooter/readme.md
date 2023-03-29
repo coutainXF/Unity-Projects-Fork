@@ -6,6 +6,28 @@
 
 ![](./Top-Down-ShooterXmind.png)
 
+
+
+## 资源链接（Link）
+
+U can find the origin project here↓
+
+[SebLague/Create-a-Game-Project (github.com)](https://github.com/SebLague/Create-a-Game-Project)
+
+bilibili转载：[【Unity】射击小游戏教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV133411v7LZ/?spm_id_from=333.880.my_history.page.click&vd_source=56e8fdea1840126840d1260a558908b9)
+
+[Unity Create a Game Series (E15. particle death effect) - YouTube](https://www.youtube.com/watch?v=PAKYDX9gPNQ&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKN) 
+
+来自youtube博主 Sebastian Lague博主 
+
+U can find him here↓
+
+[SebLague (Sebastian Lague) (github.com)](https://github.com/SebLague)
+
+[Unity Create a Game Series (E25. Finishing up) - YouTube](https://www.youtube.com/watch?v=_Ue8P4tNXOg&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&index=26)
+
+
+
 ## 总览（学习笔记）
 
 ### 一个固定俯视角的3d射击游戏原型，操控玩家消灭不断向你袭来的敌人。
