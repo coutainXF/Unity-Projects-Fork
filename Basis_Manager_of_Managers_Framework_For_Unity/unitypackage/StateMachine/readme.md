@@ -1,6 +1,6 @@
 # 演示
 
-![](.\StateMachineExample.gif)
+![](./StateMachineExample.gif)
 
 # 一些说明
 
