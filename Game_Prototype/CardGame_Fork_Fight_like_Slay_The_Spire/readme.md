@@ -42,11 +42,11 @@ If you need project resources, you can go to the bottom of the video and look fo
 
 Thanks!
 
-
-
 ## About
 
 我写的脚本并不完整！只是作为部分系统的了解。
+
+当然，这个项目作为教程来说还是不错的，但是作为游戏原型的话就相当糟糕了。
 
 缺漏的部分：
 
@@ -55,6 +55,8 @@ Thanks!
 - 并且你后面的回合不会抽到任何牌。
 
 - 胜利/失败的逻辑。
+
+- 你可以自己尝试着完成上面的脚本。
 
 为什么不写完？
 
