@@ -4,18 +4,18 @@
 
 ## 目前的内容
 
-#### 总结的一个小项目框架
+#### 1、总结的一个小项目框架
 
-#### 游戏原型
+#### 2、游戏原型
 
-- [ ] TopDownShooter
+- [x] TopDownShooter
 
-- [ ] TopDownShooter2D
+- [x] TopDownShooter2D
 
-- [ ] PlatformShooting2D
+- [x] PlatformShooting
 
-- [ ] SpaceShooting2D
+- [x] CardGame_CombatSystem_fork
 
-- [ ] 
+- [x] STG_SpaceCombat
 
-#### 2D地牢生成
+#### 3、2D地牢生成
