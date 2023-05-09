@@ -26,13 +26,9 @@ https://www.youtube.com/watch?app=desktop&v=-QOCX6SVFsk&list=PLcRSafycjWFenI87z7
 
 转载自油管Sunny Valley Studio，链接以上
 
-
-
 ### 原标题：
 
 Unity Procedural Generation of a 2D Dungeon
-
-
 
 ### 原简介：
 
@@ -40,21 +36,15 @@ Learn how to procedurally generate a 2D dungeon in Unity using Random Walk and B
 
 学习如何使用随机游走和二叉空间划分（BSP）算法在Unity中生成一个2D地牢！在本教程中，我们将使用Unity瓦片地图来创建单个和多个房间的地下城，并使用走廊优先和房间优先的方法连接走廊。
 
-
-
 ### Resources
 
 https://github.com/SunnyValleyStudio/Unity_2D_Procedural_Dungoen_Tutorial
 Learn more from about Unity Game Dev in my video courses at:
 https://courses.sunnyvalleystudio.com/
 
-
-
 ### Assets used（用到的素材）:
 
 https://pixel-poem.itch.io/dungeon-assetpuck
-
-
 
 ### You can support me through Patreon（赞助原作者）:
 

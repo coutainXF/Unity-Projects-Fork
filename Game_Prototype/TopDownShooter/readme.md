@@ -6,8 +6,6 @@
 
 ![](./Top-Down-ShooterXmind.png)
 
-
-
 ## 资源链接（Link）
 
 U can find the origin project here↓
@@ -25,8 +23,6 @@ U can find him here↓
 [SebLague (Sebastian Lague) (github.com)](https://github.com/SebLague)
 
 [Unity Create a Game Series (E25. Finishing up) - YouTube](https://www.youtube.com/watch?v=_Ue8P4tNXOg&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&index=26)
-
-
 
 ## 总览（学习笔记）
 
