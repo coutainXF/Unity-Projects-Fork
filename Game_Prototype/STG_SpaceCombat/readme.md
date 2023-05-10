@@ -1,5 +1,17 @@
 # STG(ShootingGame)_SpaceCombat总结
 
+# 总览
+
+![view_1](./view_1.png)
+
+![view_2](./view_2.png)
+
+![view_3](./view_3.png)
+
+![project_structure](./project_structure.png)
+
+<img title="" src="./STG_SpaceCombat.png" alt="project_summary" width="754">
+
 # 3C
 
 ### Character
