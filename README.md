@@ -8,14 +8,16 @@
 
 #### 2、游戏原型
 
-- [x] TopDownShooter
+- [x] TopDownShooter（上帝视角_射击）
 
-- [x] TopDownShooter2D
+- [x] TopDownShooter2D（上帝视角_射击游戏_地牢）
 
-- [x] PlatformShooting
+- [x] PlatformShooting（平台射击_复古的_类绿色军团）
 
-- [x] CardGame_CombatSystem_fork
+- [x] CardGame_CombatSystem_fork（卡牌_战斗系统）
 
-- [x] STG_SpaceCombat
+- [x] STG_SpaceCombat（射击游戏_横板空战）
+
+- [ ] Platformer（平台跳跃）
 
 #### 3、2D地牢生成
