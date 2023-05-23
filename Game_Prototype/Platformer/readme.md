@@ -2,15 +2,15 @@
 
 ## 总览
 
-![levelstart](./LevelStart.png)
+![levelstart](./Previews/LevelStart.png)
 
-![gameplay](./GamePlay.png)
+![gameplay](./Previews/GamePlay.png)
 
-![](./LevelClear.png)
+![](./Previews/LevelClear.png)
 
-![project](./PlatformerProject.png)
+![project](./Previews/PlatformerProject.png)
 
-![](./Platformer（平台跳跃）.png)
+![](./Previews/Platformer（平台跳跃）.png)
 
 ---
 

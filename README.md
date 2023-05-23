@@ -18,6 +18,8 @@
 
 - [x] STG_SpaceCombat（射击游戏_横板空战）
 
-- [ ] Platformer（平台跳跃）
+- [x] Platformer（平台跳跃）
+
+- [ ] Strategy_PVZ
 
 #### 3、2D地牢生成

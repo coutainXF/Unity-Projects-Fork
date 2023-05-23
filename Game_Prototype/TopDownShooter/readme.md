@@ -1,10 +1,10 @@
 # Top-Down Shooter
 
-![](./TopdownShooter.png)
+![](./Previews/TopdownShooter.png)
 
-![](./TheFinallEffect.png)
+![](./Previews/TheFinallEffect.png)
 
-![](./Top-Down-ShooterXmind.png)
+![](./Previews/Top-Down-ShooterXmind.png)
 
 ## 资源链接（Link）
 
@@ -28,7 +28,7 @@ U can find him here↓
 
 ### 一个固定俯视角的3d射击游戏原型，操控玩家消灭不断向你袭来的敌人。
 
-![](./content.png)
+![](./Previews/content.png)
 
 ## 场景搭建
 

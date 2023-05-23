@@ -2,7 +2,7 @@
 
 该项目的制作起因来自于：
 
-![绿色兵团](./greenSoldier.jpeg)
+![绿色兵团](./Previews/greenSoldier.jpeg)
 
 该项目的制作过程：
 
@@ -34,6 +34,6 @@
 
 8、绘制程序架构图
 
-![](./HorizontalPlatformShooting.png)
+![](./Previews/HorizontalPlatformShooting.png)
 
 由于过于简陋（就没有演示图和完整项目展示了。

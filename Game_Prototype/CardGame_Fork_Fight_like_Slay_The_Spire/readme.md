@@ -20,9 +20,9 @@ Tutorial Link Here：
 
 如果你需要项目资源，可以去视频底下寻找链接，或需要下载origin结尾的unitypackage即可(_Excel是配置文件，不要忘记导入)，这里我直接提供了完整的项目。
 
-![](./cardgameAttack.png)
+![](./Previews/cardgameAttack.png)
 
-![](./cardGame.png)
+![](./Previews/cardGame.png)
 
 ## Translation Here：
 

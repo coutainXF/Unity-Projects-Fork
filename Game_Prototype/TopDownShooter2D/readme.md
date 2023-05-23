@@ -2,11 +2,11 @@
 
 # 总览
 
-![](./topdownShooter2D.gif)
+![](./Previews/topdownShooter2D.gif)
 
-![](./TopDownShooter2D.png)
+![](./Previews/TopDownShooter2D.png)
 
-![](./topdownshooter_script.png)
+![](./Previews/topdownshooter_script.png)
 
 ## 对象池
 
@@ -30,7 +30,7 @@
 
 ## 创建不同种类的发射枪械
 
-![](./topdownshooter_guns.png)
+![](./Previews/topdownshooter_guns.png)
 
 1、Pistol模拟了单个实体子弹。
 
